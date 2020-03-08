@@ -1,0 +1,8 @@
+/.settings/
+/out/
+.cproject
+.project
+/.vscode/
+/ideScripts/
+*.code-workspace
+*.backup
